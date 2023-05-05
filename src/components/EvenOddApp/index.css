@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.bg {
+  background-image: radial-gradient(#ff6e7f, #bfe9ff);
+  height: 100vh;
+  padding: 20px;
+}
+.but {
+  background-color: white;
+}
